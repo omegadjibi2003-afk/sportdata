@@ -1,0 +1,18 @@
+{
+  "name": "SportData",
+  "short_name": "SportData",
+  "description": "Suivi local des performances des athlètes",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#080d18",
+  "theme_color": "#22d3ee",
+  "icons": [
+    {
+      "src": "./app-icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
